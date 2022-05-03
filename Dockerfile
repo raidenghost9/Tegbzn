@@ -7,8 +7,8 @@ CMD ["/sbin/my_init"]
 RUN apt-get update \
  && apt-get install -y \
     bash curl sudo wget \
-    python3 unzip sed \
-    python3-pip unzip \
+    python3 python3-pip sed \
+    unzip unrar p7zip-full p7zip-rar \
  && pip3 install requests
 
 # Clean up APT:
