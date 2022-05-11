@@ -1,8 +1,7 @@
 # tegbzn
 YoHoHo<br>
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ssnjrthegr8/tegbzn)
-<br>
+This doesnt work, so dont spend time trying to deploy this.
 
 ## Instructions:
 
